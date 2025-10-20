@@ -7,3 +7,21 @@ html, body {
 body {
     background-color: white;
 }
+
+/* Hero section */
+
+.hero .hero-image {
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.hero h1 {
+    font-size: clamp(2rem, 6vw, 3rem);
+    line-height: 45px;
+}
+
+.hero .resume-btn {
+    background-color: #FF6464;
+    color: white;
+    font-size: 20px;
+}
