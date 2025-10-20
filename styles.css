@@ -4,10 +4,6 @@ html, body {
     font-style: normal;
 }
 
-html, body, main, .hero {
-    min-height: 100vh;
-}
-
 body {
     background-color: white;
 }
