@@ -25,3 +25,15 @@ body {
     color: white;
     font-size: 20px;
 }
+
+
+/* Projects section */
+
+.projects {
+    background-color: #EDF7FA;
+}
+
+.projects .card .badge {
+    background-color: #142850;
+    color: white;
+}
