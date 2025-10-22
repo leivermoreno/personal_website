@@ -37,3 +37,9 @@ body {
     background-color: #142850;
     color: white;
 }
+
+/* Footer section */
+
+.contact .contact-icon {
+    color: #142850;
+}
