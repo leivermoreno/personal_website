@@ -38,6 +38,10 @@ body {
     color: white;
 }
 
+.projects .card .card-img {
+    max-width: 390px;
+}
+
 /* Footer section */
 
 .contact .contact-icon {
