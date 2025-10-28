@@ -42,14 +42,17 @@ body {
     color: white;
 }
 
-.projects .card .card-img {
-    max-width: 390px;
-}
-
 .projects .card .card-img:hover {
     cursor: pointer;
     transform: scale(1.05);
     transition: transform 0.5s ease;
+}
+
+@media (min-width: 768px) {
+    .projects .card .card-img {
+        max-width: 390px;
+    }
+    
 }
 
 /* Footer section */
