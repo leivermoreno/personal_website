@@ -46,6 +46,12 @@ body {
     max-width: 390px;
 }
 
+.projects .card .card-img:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: transform 0.5s ease;
+}
+
 /* Footer section */
 
 .contact .contact-icon {
